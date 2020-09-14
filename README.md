@@ -12,7 +12,7 @@ A simple simulation of the pendulum
 # Usage
 ```python singlependulum.py```
 or
-```python doublependulum.py```
+```python doublependulum_nlp.py```
 
 # Function
 - difeq
