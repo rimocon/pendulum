@@ -116,5 +116,5 @@ ani = FuncAnimation(fig, animate, gen, interval = 0.0,blit=True,save_count = len
 
 # 秒感100frame
 # 動画を保存する場合コメントアウト
-ani.save('double.mp4',writer='ffmpeg',fps = 200)
+# ani.save('double.mp4',writer='ffmpeg',fps = 200)
 plt.show()
